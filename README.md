@@ -1,7 +1,5 @@
 # House Price Prediction Project
 
-## Overview
-
 This project aims to predict house prices based on various features using machine learning techniques. We explore a dataset containing information about houses in King County, Washington, USA.
 
 ## Dataset
